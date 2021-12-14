@@ -1,0 +1,13 @@
+### Here is what i'm working on! 👏
+
+- 👋 Hi, I’m @joserobertoarias
+- 🛠 I'm currently working on a Project With Angular and c#.
+- 👀 I’m interested in work in a team project...
+- 🌱 I’m currently learning more angular...
+- 💞️ I’m looking to collaborate on a project with angular or c# languages...
+- 📫 How to reach me [Email]joserobertoarias2005@hotmail.com...
+
+<!---
+joserobertoarias/joserobertoarias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
